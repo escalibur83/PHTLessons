@@ -16,7 +16,5 @@ public class wrapp {
     {
         Number number = new Number(2,3.5, new BigDecimal(435435.00000000555555555555555500000001));
         number.summ(2,3);
-
-
     }
 }
